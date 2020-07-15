@@ -19,17 +19,30 @@ namespace E_PLAYERS_AspNetCore.Models
             CreateFolderAndFile(PATH);
         }
 
+        /// <summary>
+        /// Inserindo novas equipes
+        /// </summary>
+        /// <param name="e"></param>
         public void Create(Equipe e)
         {
             string[] linhas = {PrepareLine(e)};
             File.AppendAllLines(PATH, linhas);
         }
 
+        /// <summary>
+        /// Preparando como os dados serão armazenados no arquivo Database
+        /// </summary>
+        /// <param name="e"></param>
+        /// <returns></returns>
         private string PrepareLine (Equipe e)
         {
             return $"{e.IdEquipe};{e.Nome};{e.Imagem}";
         }
 
+        /// <summary>
+        /// Remove equipe filtrando o argumento
+        /// </summary>
+        /// <param name="IdEquipe">codigo de identificação de equipe</param>
         public void Delete(int IdEquipe)
         {
             List<string> linhas = ReadAllLinesCSV(PATH);
@@ -39,6 +52,10 @@ namespace E_PLAYERS_AspNetCore.Models
             RewriteCSV(PATH, linhas);
         }
 
+        /// <summary>
+        /// Lê todas as linhas do arquivo Database atraves da lista
+        /// </summary>
+        /// <returns></returns>
         public List<Equipe> ReadAll()
         {
             List<Equipe> equipes = new List<Equipe>();
@@ -56,6 +73,10 @@ namespace E_PLAYERS_AspNetCore.Models
             return equipes;
         }
 
+        /// <summary>
+        /// Altera a equipe, primeiro excluindo e depois reescreve 
+        /// </summary>
+        /// <param name="e"></param>
         public void Update(Equipe e)
         {
             List<string> linhas = ReadAllLinesCSV(PATH);
