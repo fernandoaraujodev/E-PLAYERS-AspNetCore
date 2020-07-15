@@ -19,6 +19,11 @@ namespace E_PLAYERS_AspNetCore.Controllers
             return View();
         }
 
+        /// <summary>
+        /// Cadastra as informações inseridas
+        /// </summary>
+        /// <param name="form">entrada de informações</param>
+        /// <returns></returns>
         public IActionResult Cadastrar(IFormCollection form)
         {
             Equipe equipe   = new Equipe();

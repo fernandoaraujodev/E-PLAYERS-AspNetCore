@@ -36,3 +36,4 @@ C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNe
 C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.genruntimeconfig.cache
 C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\E-PLAYERS-AspNetCore.csproj.CopyComplete
 C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Equipe\index.cshtml.g.cs
+C:\Users\pc\Desktop\E-PLAYERS-AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Noticias\Index.cshtml.g.cs
