@@ -32,7 +32,7 @@ namespace E_PLAYERS_AspNetCore.Models
         /// <summary>
         /// Preparando como os dados serão armazenados no arquivo Database
         /// </summary>
-        /// <param name="e"></param>
+        /// <param name="e">objeto equipe</param>
         /// <returns></returns>
         private string PrepareLine (Equipe e)
         {
