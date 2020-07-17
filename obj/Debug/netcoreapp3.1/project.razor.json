@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\pc\\Desktop\\E-PLAYERS-AspNetCore\\E-PLAYERS-AspNetCore.csproj",
+  "FilePath": "c:\\Users\\pc\\Desktop\\SENAI\\E-PLAYERS-AspNetCore\\E-PLAYERS-AspNetCore.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20521,42 +20521,42 @@
   "RootNamespace": "E_PLAYERS_AspNetCore",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\pc\\Desktop\\E-PLAYERS-AspNetCore\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\pc\\Desktop\\E-PLAYERS-AspNetCore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\pc\\Desktop\\E-PLAYERS-AspNetCore\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\pc\\Desktop\\SENAI\\E-PLAYERS-AspNetCore\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\pc\\Desktop\\E-PLAYERS-AspNetCore\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\pc\\Desktop\\SENAI\\E-PLAYERS-AspNetCore\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\pc\\Desktop\\E-PLAYERS-AspNetCore\\Views\\Noticias\\Index.cshtml",
-      "TargetPath": "Views\\Noticias\\Index.cshtml",
+      "FilePath": "c:\\Users\\pc\\Desktop\\SENAI\\E-PLAYERS-AspNetCore\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\pc\\Desktop\\E-PLAYERS-AspNetCore\\Views\\Equipe\\index.cshtml",
+      "FilePath": "c:\\Users\\pc\\Desktop\\SENAI\\E-PLAYERS-AspNetCore\\Views\\Equipe\\index.cshtml",
       "TargetPath": "Views\\Equipe\\index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\pc\\Desktop\\E-PLAYERS-AspNetCore\\Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\pc\\Desktop\\SENAI\\E-PLAYERS-AspNetCore\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\pc\\Desktop\\E-PLAYERS-AspNetCore\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\pc\\Desktop\\SENAI\\E-PLAYERS-AspNetCore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\pc\\Desktop\\SENAI\\E-PLAYERS-AspNetCore\\Views\\Noticias\\Index.cshtml",
+      "TargetPath": "Views\\Noticias\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\pc\\Desktop\\SENAI\\E-PLAYERS-AspNetCore\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }

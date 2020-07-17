@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\E-PLAYERS-AspNetCore\\E-PLAYERS-AspNetCore.csproj": {}
+    "C:\\Users\\pc\\Desktop\\SENAI\\E-PLAYERS-AspNetCore\\E-PLAYERS-AspNetCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\E-PLAYERS-AspNetCore\\E-PLAYERS-AspNetCore.csproj": {
+    "C:\\Users\\pc\\Desktop\\SENAI\\E-PLAYERS-AspNetCore\\E-PLAYERS-AspNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\E-PLAYERS-AspNetCore\\E-PLAYERS-AspNetCore.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\SENAI\\E-PLAYERS-AspNetCore\\E-PLAYERS-AspNetCore.csproj",
         "projectName": "E-PLAYERS-AspNetCore",
-        "projectPath": "C:\\Users\\pc\\Desktop\\E-PLAYERS-AspNetCore\\E-PLAYERS-AspNetCore.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\SENAI\\E-PLAYERS-AspNetCore\\E-PLAYERS-AspNetCore.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\E-PLAYERS-AspNetCore\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\SENAI\\E-PLAYERS-AspNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
